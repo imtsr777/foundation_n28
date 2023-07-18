@@ -1,2 +1,2 @@
 a = "o'xshadimi?"
-print(a)
+print(a + 1)
